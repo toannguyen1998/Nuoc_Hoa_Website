@@ -1,0 +1,13 @@
+﻿Generated model file: QuanLyBanNuocHoaModel.edmx.
+Loading metadata from the database took 00:00:01.6765298.
+Generating the model took 00:00:01.7635236.
+Added the connection string to the Web.Config file.
+Writing the .edmx file took 00:00:00.0005009.
+Generated model file: SanPhamPartial.edmx.
+Loading metadata from the database took 00:00:00.5448208.
+Generating the model took 00:00:01.0857022.
+Added the connection string to the Web.Config file.
+Writing the .edmx file took 00:00:00.0047176.
+Generated model file: SanPhamPartial.edmx.
+Loading metadata from the database took 00:00:00.9883049.
+Generating the model took 00:00:02.0064657.
